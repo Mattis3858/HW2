@@ -1,0 +1,34 @@
+body{
+	background-color: lightblue;
+}
+span{
+	font-size: 200%;
+	border: 10% solid black;
+	background-color: lightblue;
+	padding-top: 10%;
+	padding-left: 10%;
+}
+h4{
+	color: blue;
+	bottom: -1ex;
+}
+.extra p{
+	font-size: inherit; 
+}
+h3{
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: bold;
+}
+.extra h3{
+	font-weight: inherit;
+}
+h2{
+	font-weight: normal
+}
+.extra h2{
+	font-weight: inherit;
+}
+span{
+	color: black;
+}
